@@ -1,0 +1,13 @@
+scikit-learn
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+plotly
+kaggle
+Pillow
+joblib
+scikit-image
+python-dotenv

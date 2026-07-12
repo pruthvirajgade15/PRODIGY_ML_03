@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ML Artifacts
+artifacts/raw_data/
+artifacts/model.pkl
+artifacts/preprocessor.pkl
+artifacts/metrics.pkl
+*.pkl
